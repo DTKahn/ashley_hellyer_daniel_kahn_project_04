@@ -51,7 +51,10 @@ app.randomMovies = [
     'Incendies',
     'Ajami',
     'Mongol',
-    'Tsotsi'
+    'Tsotsi',
+    'Hotel Rawanda',
+    'District 9',
+    'Sarafina'
 ];
 
 
